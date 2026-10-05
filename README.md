@@ -1,11 +1,12 @@
 <div align="center">
 
-# بيتر إيليا — Peter Elia
+# Peter Elia
 
 ### Full Stack Developer 🇪🇬
-**بحوّل الأفكار لمنتجات شغّالة: مواقع، متاجر، سيستمز، وتطبيقات ديسكتوب**
+**I turn ideas into working products: websites, online stores, management systems, and desktop apps.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://peter-elia-cv.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Elea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-elea-71689935a/)
 [![Instagram](https://img.shields.io/badge/Instagram-beter__elea-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beter_elea/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beterelea020@gmail.com)
 
@@ -13,12 +14,12 @@
 
 ---
 
-## ⚡ نبذة سريعة
+## ⚡ About Me
 
-- 💼 مطوّر فريلانس، بشتغل مع عملاء وبعمل منتجات خاصة بيا
-- 🧩 تخصصي: تطبيقات ويب، متاجر إلكترونية، أنظمة إدارة، وسطح مكتب
-- 🎓 طالب في معهد حاسبات، ودارس تصميم ويب
-- 🛠️ بحب الحلول العملية اللي الناس تستخدمها فعلاً في السوق المصري
+- 💼 Freelance developer working with clients and building my own products
+- 🧩 Focus: web apps, e-commerce stores, management systems, and desktop software
+- 🎓 Computer institute student with a web design background
+- 🛠️ I build practical solutions that people actually use
 
 ---
 
@@ -45,26 +46,26 @@
 
 ---
 
-## 🚀 مشاريع على GitHub
+## 🚀 Featured Projects
 
-| المشروع | الوصف | التقنيات |
+| Project | Description | Tech |
 |---|---|---|
-| [**CoachPro**](https://github.com/beterelea020-alt/coachpro) | منصة SaaS لإدارة التدريب واللياقة بأدوار متعددة | React • Firebase |
-| [**Lamsa Laser**](https://github.com/beterelea020-alt/-lamsa-laser) | موقع متجر «لمسة» للحرف بالليزر | JavaScript |
-| [**Rafeeq — رفيق الدواء**](https://github.com/beterelea020-alt/Rafeeq) | تطبيق لتنظيم مواعيد الأدوية | JavaScript |
-| [**Coffee Store**](https://github.com/beterelea020-alt/coffee-store) | متجر قهوة إلكتروني | JavaScript |
-| [**Watch Store**](https://github.com/beterelea020-alt/watch-store) | متجر ساعات إلكتروني | JavaScript |
-| [**Portfolio**](https://github.com/beterelea020-alt/Portfolio-peter) | موقع الـ CV الشخصي بتصميم Terminal | HTML • CSS • JS |
+| [**CoachPro**](https://github.com/beterelea020-alt/coachpro) | Multi-role fitness coaching SaaS platform | React • Firebase |
+| [**Lamsa Laser**](https://github.com/beterelea020-alt/-lamsa-laser) | E-commerce site for a laser craft business | JavaScript |
+| [**Rafeeq**](https://github.com/beterelea020-alt/Rafeeq) | Medication reminder app | JavaScript |
+| [**Coffee Store**](https://github.com/beterelea020-alt/coffee-store) | Online coffee shop | JavaScript |
+| [**Watch Store**](https://github.com/beterelea020-alt/watch-store) | Online watch store | JavaScript |
+| [**Portfolio**](https://github.com/beterelea020-alt/Portfolio-peter) | Personal CV site with a terminal theme | HTML • CSS • JS |
 
 ---
 
-## 📦 منتجات وأنظمة بشتغل عليها
+## 📦 Products I'm Building
 
-- 🏢 **نظام موارد بشرية** — Desktop أوفلاين (Electron + Node.js + SQLite)
-- 🎮 **PS Shop Pro** — إدارة كافيهات الألعاب (Electron)
-- 🚗 **سوّاق** — PWA لسواقين مصر لتتبع الدخل وقبول الدفع من الموبايل
-- 📢 **بلاغ** — تطبيق للمواطنين للإبلاغ عن مشاكل الأحياء (React)
-- 🎓 **منصة مذاكرة** — مشروع التخرج (React • Node • PostgreSQL)
+- 🏢 **HR Management System**: offline desktop app (Electron + Node.js + SQLite)
+- 🎮 **PS Shop Pro**: management app for gaming cafés (Electron)
+- 🚗 **Sawwaq**: PWA for Egyptian drivers to track income and accept mobile payments
+- 📢 **Balagh**: citizen app for reporting municipal issues (React)
+- 🎓 **Study Platform**: graduation project (React • Node • PostgreSQL)
 
 ---
 
@@ -79,10 +80,10 @@
 
 ---
 
-## 🤝 خلينا نشتغل سوا
+## 🤝 Let's Work Together
 
-محتاج **موقع** أو **متجر** أو **سيستم** مخصص لشغلك؟
-كلمني على الإيميل أو الإنستجرام، وهنتفق على التفاصيل 👇
+Need a **website**, **online store**, or a **custom system** for your business?
+Reach out by email, LinkedIn, or Instagram and we'll go over the details.
 
 <div align="center">
 
